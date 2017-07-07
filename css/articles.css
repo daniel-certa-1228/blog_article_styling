@@ -58,22 +58,56 @@ header {
 	text-align: center;
 }
 
+/*=============================
+	Article ID's
+=============================*/
+
 #article-1 {
 	background-color: lightgrey;
+	font-family: 'Raleway', sans-serif;
+	color: red;
+	line-height: 1.2em;
+	padding: 1em;
+	border-radius: 3%;
+	border: 1px solid black;
 }
 
 #article-2 {
 	background-color: lightblue;
+	font-family: 'Roboto Condensed', sans-serif;
+	color: navy;
+	line-height: 1em;
+	padding: 2em;
+	border-radius: 10%;
+	border: 2px dotted red;
 }
 
 #article-3 {
 	background-color: lightyellow;
+	font-family: 'Open Sans Condensed', sans-serif;
+	color: maroon;
+	line-height: 2em;
+	padding: 3em 2em;
+	border-radius: 20%;
+	border: 3px dashed green;
 }
 
 #article-4 {
 	background-color: orange;
+	font-family: 'PT Sans Narrow', sans-serif;
+	color: white;
+	line-height: 1.5em;
+	padding: 4em 5em;
+	border-radius: 40%;
+	border: 4px double grey;
 }
 
 #article-5 {
 	background-color: white;
+	font-family: 'Dosis', sans-serif;
+	color: darkgreen;
+	line-height: 2.5em;
+	padding: 10em;
+	border-radius: 100%;
+	border: 5px solid darkgreen;
 }
